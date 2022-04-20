@@ -32,4 +32,11 @@
 		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
 		<nature>org.uqbar.project.wollok.wollokNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>assets/tierraa.png</name>
+			<type>1</type>
+			<locationURI>PARENT-3-WORKSPACE_LOC/Im%C3%A1genes/tierraa.png</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
